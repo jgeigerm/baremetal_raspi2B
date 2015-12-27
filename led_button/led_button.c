@@ -3,7 +3,7 @@
  *
  *       Filename:  led6.c
  *
- *    Description:  blink an LED on GPIO 6
+ *    Description:  turn on the activity led on the board when the button is pushed (PIN 29) and then after about 7 seconds blink the led on pin 31 rapidly
  *
  *        Version:  1.0
  *        Created:  12/23/2015 00:29:10
